@@ -1,0 +1,20 @@
+{
+  "name": "exb-widget-print",
+  "label": "My Print",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.0.0",
+  "author": "mvrtich@arcdata.cz",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "description": "An ExB widget wrapper for the JS API Print widget.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": ["en", "cs"],
+  "defaultSize": {
+    "width": 275,
+    "height": 350
+  }
+}
